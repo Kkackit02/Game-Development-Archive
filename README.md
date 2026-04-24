@@ -24,6 +24,7 @@ Unity 엔진을 활용한 게임 개발 프로젝트 및 경진대회 출품작 
 | `02-Projects/Zombie-Cadaver/` | ~~Zombie_TPS_FPS_Cadaver~~ | 2019 | TPS/FPS 메커니즘 구현 및 게임 루프 설계. ARTLOGIC 동아리 작품. |
 | `02-Projects/Infection-Simulate/` | ~~Random_Walk_Infection_Tendency_Simulate~~ | 2020 | 랜덤 워크 알고리즘 기반 공기 중 비말 확산 시뮬레이션. |
 | `02-Projects/Light-House-Horror/` | ~~Light_House_Horror~~ | 2019 | 넷마블 게임아카데미 4기 지원 포트폴리오용 공포 퍼즐 게임. |
+| `02-Projects/F1-Card/` | ~~F1_Card_Project~~ | 2021~22 | F1 카드 그랑프리. Jack's Bean 팀 카드게임 프로젝트. |
 
 ---
 
