@@ -1,16 +1,44 @@
 # Game-Development-Archive
 
-Unity ������ Ȱ���� ���� ���� ������Ʈ �� ������ȸ ��ǰ�� ����Դϴ�. �ʱ� �н� �ܰ���� �ϼ��� �ִ� ������Ʈ������ ���� �̷��� �����մϴ�.
+Unity 엔진을 활용한 게임 개발 프로젝트 및 경진대회 출품작 기록입니다.
+초기 학습 단계부터 완성도 있는 프로젝트까지의 개발 이력을 포함합니다.
 
-## ����
+---
 
-### 01-Contest (��ȸ �� ����)
-* Operation-Ragnarok: ���� ���� ���� ������ȸ ��ǰ��.
+## 구성
 
-### 02-Projects (�ֿ� ������Ʈ)
-* Zombie-Cadaver: TPS/FPS ��Ŀ���� ���� �� ���� ���� ����.
-* Infection-Simulate: ���� ��ũ �˰����� ��� ������ Ȯ�� �ùķ��̼�.
-* Spell-The-Spell: 2D �׼� ���� ���� �� �������͸� �۾�.
+### 01-Contest — 대회 및 수상
 
-### 03-Practice (���� �� ����)
-* Basics: ���� ��� �� ���α׷��� ���� ���� ���.
+| 프로젝트 | 기간 | 설명 |
+|---------|------|------|
+| [Operation-Ragnarok](https://github.com/Kkackit02/Operation_Ragnarok) | 2021 | 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작. 개인 제작. |
+
+> 별도 레포지토리로 관리됩니다.
+
+---
+
+### 02-Projects — 주요 프로젝트
+
+| 디렉토리 | 원본 레포 | 기간 | 설명 |
+|---------|----------|------|------|
+| `02-Projects/Zombie-Cadaver/` | ~~Zombie_TPS_FPS_Cadaver~~ | 2019 | TPS/FPS 메커니즘 구현 및 게임 루프 설계. ARTLOGIC 동아리 작품. |
+| `02-Projects/Infection-Simulate/` | ~~Random_Walk_Infection_Tendency_Simulate~~ | 2020 | 랜덤 워크 알고리즘 기반 공기 중 비말 확산 시뮬레이션. |
+| `02-Projects/Light-House-Horror/` | ~~Light_House_Horror~~ | 2019 | 넷마블 게임아카데미 4기 지원 포트폴리오용 공포 퍼즐 게임. |
+
+---
+
+### 03-Practice — 기초 및 연습
+
+| 디렉토리 | 원본 레포 | 기간 | 설명 |
+|---------|----------|------|------|
+| `03-Practice/I-Cross-Way/` | ~~I-Cross-Way~~ | 2019 | 성남고등학교 동아리 ARTLOGIC 제작 2D 게임. |
+
+---
+
+## 관련 레포지토리 (별도 관리)
+
+| 프로젝트 | 설명 |
+|---------|------|
+| [SPELL_THE_SPELL_REMASTER](https://github.com/Kkackit02/SPELL_THE_SPELL_REMASTER) | 2D 플랫포머 로그라이크 · 원본 포함 |
+| [US_Netmarble_GameAcademy_4th](https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th) | 넷마블 게임아카데미 4기 대상 수상작 |
+| [KONKUK_FLOW](https://github.com/Kkackit02/KONKUK_FLOW) | 건국대 2025 녹색지대 인터랙티브 미디어 아트 |
