@@ -1,5 +1,7 @@
 # WARP (내일은 머지)
 
+<img src="assets/MainTitle.png" width="100%">
+
 > **PUBG Best Game of the Year 2025 🥇**
 
 Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
@@ -25,7 +27,15 @@ Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
     <td align="center"><img src="assets/screenshot2.png" width="380"/><br/><sub>인게임 사진 2</sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="assets/screenshot3.png" width="600"/><br/><sub>인게임 사진 3</sub></td>
+    <td align="center"><img src="assets/screenshot4.png" width="380"/><br/><sub>인게임 사진 3</sub></td>
+    <td align="center"><img src="assets/screenshot5.png" width="380"/><br/><sub>인게임 사진 4</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshot6.png" width="380"/><br/><sub>인게임 사진 5</sub></td>
+    <td align="center"><img src="assets/screenshot7.png" width="380"/><br/><sub>인게임 사진 6</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/screenshot3.png" width="600"/><br/><sub>인게임 사진 7</sub></td>
   </tr>
 </table>
 
@@ -49,7 +59,7 @@ Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 
 
 | 이름 | 역할 |
 |------|------|
-| 이지환 | 기획 |
+| 이지환 | 기획, 개발 |
 | 이다운 | PM |
 | 이수민 | 개발 |
 | **정근녕** | **개발 (중간 합류)** |
@@ -93,5 +103,7 @@ Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 
 
 ## 🎬 시연 영상
 
-<!-- 영상 링크를 여기에 추가해주세요 -->
+[![WARP 시연 영상](https://img.youtube.com/vi/aJWF2PbY4c4/0.jpg)](https://youtu.be/aJWF2PbY4c4)
+
+*이미지를 클릭하면 YouTube 시연 영상으로 이동합니다.*
 
