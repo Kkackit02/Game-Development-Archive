@@ -66,13 +66,26 @@ Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 
 
 ---
 
-## 📸 스크린샷
+## 🏆 수상 및 전시
 
-<!-- 스크린샷을 여기에 추가해주세요 -->
 <table>
   <tr>
-    <td align="center"><img src="" width="380"/><br/><sub>인게임 플레이</sub></td>
-    <td align="center"><img src="" width="380"/><br/><sub>컷씬 / 튜토리얼</sub></td>
+    <td align="center"><img src="assets/award.jpg" width="45%"><br/><sub>PUBG Best Game of the Year 2025 수상</sub></td>
+    <td align="center"><img src="assets/exhibition.jpg" width="45%"><br/><sub>Krafton Developer Conference 전시</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📸 스크린샷
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshot1.png" width="380"/><br/><sub>인게임 플레이 1</sub></td>
+    <td align="center"><img src="assets/screenshot2.png" width="380"/><br/><sub>인게임 플레이 2</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/screenshot3.png" width="600"/><br/><sub>컷씬 / 튜토리얼</sub></td>
   </tr>
 </table>
 
