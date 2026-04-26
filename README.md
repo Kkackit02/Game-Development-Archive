@@ -11,7 +11,7 @@ Unity 엔진을 활용한 게임 개발 프로젝트 및 경진대회 출품작 
 
 | 프로젝트 | 기간 | 설명 |
 |---------|------|------|
-| [Operation-Ragnarok](https://github.com/Kkackit02/Operation_Ragnarok) | 2021 | 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작. 개인 제작. |
+| [Operation-Ragnarok](https://github.com/Kkackit02/Operation_Ragnarok) | 2021 | 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작. 개인 제작. [**(다운로드)**](https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=sharing) |
 
 > 별도 레포지토리로 관리됩니다.
 
