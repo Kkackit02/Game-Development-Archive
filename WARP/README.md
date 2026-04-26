@@ -6,6 +6,31 @@ Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
 
 ---
 
+## 🏆 수상 및 전시
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/award.jpg" width="45%"><br/><sub>PUBG Best Game of the Year 2025 수상</sub></td>
+    <td align="center"><img src="assets/exhibition.jpg" width="45%"><br/><sub>Krafton Developer Conference 전시</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📸 스크린샷
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshot1.png" width="380"/><br/><sub>인게임 사진 1</sub></td>
+    <td align="center"><img src="assets/screenshot2.png" width="380"/><br/><sub>인게임 사진 2</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/screenshot3.png" width="600"/><br/><sub>인게임 사진 3</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 🎮 게임 소개
 
 드래그로 영역을 생성하고 물체를 합쳐(Merge) 적을 처치하는 액션 게임.
@@ -63,31 +88,6 @@ Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 
 - `TimeSlow` 버그 수정
 - Timeline 초기화 후 카메라 Offset 미적용 버그 수정
 - 출시 전 디버깅 전담
-
----
-
-## 🏆 수상 및 전시
-
-<table>
-  <tr>
-    <td align="center"><img src="assets/award.jpg" width="45%"><br/><sub>PUBG Best Game of the Year 2025 수상</sub></td>
-    <td align="center"><img src="assets/exhibition.jpg" width="45%"><br/><sub>Krafton Developer Conference 전시</sub></td>
-  </tr>
-</table>
-
----
-
-## 📸 스크린샷
-
-<table>
-  <tr>
-    <td align="center"><img src="assets/screenshot1.png" width="380"/><br/><sub>인게임 플레이 1</sub></td>
-    <td align="center"><img src="assets/screenshot2.png" width="380"/><br/><sub>인게임 플레이 2</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="assets/screenshot3.png" width="600"/><br/><sub>컷씬 / 튜토리얼</sub></td>
-  </tr>
-</table>
 
 ---
 
