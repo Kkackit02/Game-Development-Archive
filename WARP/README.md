@@ -46,6 +46,8 @@ Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
 드래그로 영역을 생성하고 물체를 합쳐(Merge) 적을 처치하는 액션 게임.
 Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 이어나간다.
 
+[**💾 게임 다운로드 (Google Drive)**](https://drive.google.com/file/d/1Jy8m8UrZlbK8Y-mB8SJ34wQzd5KPxrp3/view?usp=drive_link)
+
 | 항목 | 내용 |
 |------|------|
 | **엔진** | Unity 6000.0.42f1 |
@@ -103,7 +105,7 @@ Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 
 
 ## 🎬 시연 영상
 
-[![WARP 시연 영상](https://img.youtube.com/vi/aJWF2PbY4c4/0.jpg)](https://youtu.be/aJWF2PbY4c4)
+[![WARP 시연 영상](https://i.ytimg.com/vi/aJWF2PbY4c4/hqdefault.jpg)](https://youtu.be/aJWF2PbY4c4)
 
 *이미지를 클릭하면 YouTube 시연 영상으로 이동합니다.*
 
