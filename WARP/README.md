@@ -45,8 +45,6 @@ Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
 
 해당 레포지토리는 게임 "**내일은 머지**"의 초기 버전이자, Krafton Developer Conference 전시를 위한 개발 버전입니다.
 
-드래그로 영역을 생성하고 물체를 합쳐(Merge) 적을 처치하는 액션 게임으로, Warp 메커니즘을 활용해 공간을 조작하고 전략적으로 전투를 이어나갑니다.
-
 [**💾 게임 다운로드 (Google Drive)**](https://drive.google.com/file/d/1Jy8m8UrZlbK8Y-mB8SJ34wQzd5KPxrp3/view?usp=drive_link)
 
 | 항목 | 내용 |
@@ -100,7 +98,7 @@ Unity 기반 2D 액션 게임 · Krafton Developer Conference 전시작
 
 - `TimeSlow` 버그 수정
 - Timeline 초기화 후 카메라 Offset 미적용 버그 수정
-- 출시 전 디버깅 전담
+- 출시 전 디버깅
 
 ---
 
